@@ -1,0 +1,11 @@
+D:\ITEA\ArrayHW1\bin\Debug\netcoreapp3.1\ArrayHW1.exe
+D:\ITEA\ArrayHW1\bin\Debug\netcoreapp3.1\ArrayHW1.deps.json
+D:\ITEA\ArrayHW1\bin\Debug\netcoreapp3.1\ArrayHW1.runtimeconfig.json
+D:\ITEA\ArrayHW1\bin\Debug\netcoreapp3.1\ArrayHW1.runtimeconfig.dev.json
+D:\ITEA\ArrayHW1\bin\Debug\netcoreapp3.1\ArrayHW1.dll
+D:\ITEA\ArrayHW1\bin\Debug\netcoreapp3.1\ArrayHW1.pdb
+D:\ITEA\ArrayHW1\obj\Debug\netcoreapp3.1\ArrayHW1.csprojAssemblyReference.cache
+D:\ITEA\ArrayHW1\obj\Debug\netcoreapp3.1\ArrayHW1.AssemblyInfoInputs.cache
+D:\ITEA\ArrayHW1\obj\Debug\netcoreapp3.1\ArrayHW1.AssemblyInfo.cs
+D:\ITEA\ArrayHW1\obj\Debug\netcoreapp3.1\ArrayHW1.dll
+D:\ITEA\ArrayHW1\obj\Debug\netcoreapp3.1\ArrayHW1.pdb
